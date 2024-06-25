@@ -20,6 +20,8 @@ The package also includes a simple example of how you can use them (not speciall
 
 For more details on how to use this refers to the original [iisignature library](https://github.com/bottler/iisignature/tree/master) or [paper](https://arxiv.org/abs/1802.08252)
 
+It should be noted that the signature layer do not accept XLA compilation as the underlying operations are not made from such, any helps to implements this is welcome !
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
